@@ -1,0 +1,18 @@
+Creator:         Adobe InDesign 18.5 (Macintosh)
+Producer:        Adobe PDF Library 17.0
+CreationDate:    Wed Apr  2 13:43:49 2025 UTC
+ModDate:         Wed Apr  2 13:43:59 2025 UTC
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           19
+Encrypted:       no
+Page size:       1224 x 792 pts
+Page rot:        0
+File size:       8615118 bytes
+Optimized:       yes
+PDF version:     1.4
